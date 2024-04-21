@@ -3,3 +3,5 @@
 def funft():
     print("hello")
     return "hello"
+print("hello")
+funft()
